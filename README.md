@@ -30,6 +30,10 @@ Oscilloscope pic below shows the signal of J3 after the conditioning box.
 
 ![oscilloscope image](https://github.com/GergelyTuri/optoImaging/blob/master/J3output.PNG) 
 
+Schema of the rig:
+
+![schema](https://github.com/GergelyTuri/optoImaging/blob/master/OptoImagingSchema.png)
+
 ### Tips:
 
 * The actual output power is also depending on the scanning rate, the objective's back aperture and other scan settings. You'll get more power at the level of the sample if the the back aperture of the objective is large (e.g. Nikon 16x). 
