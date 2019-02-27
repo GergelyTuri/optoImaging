@@ -24,7 +24,7 @@ nice square waves out of the pockels blanking signal. It takes the input form th
 the pockels controller box and hooked up the `TTL` input of the LED controller box. In this configuration
 the output power of the LED can be modulated through the `Ain` pin of the controller box.
 Oscilloscope pic below shows the signal of J3 after the conditioning box.
-https://github.com/
+![alt text](https://github.com/GergelyTuri/optoImaging/blob/master/J3%20output.PNG, "pic")
 
 
 Please cite:<br>
