@@ -26,10 +26,13 @@ the pockels controller box and its output is hooked up the `TTL` input of the LE
 the output power of the LED can be modulated through the `Ain` pin of the controller box.
 Oscilloscope pic below shows the signal of J3 after the conditioning box.
 
-<img src="https://github.com/GergelyTuri/optoImaging/blob/master/J3%20output.PNG"
+<img src="optoImaging/J3output.PNG"
      alt="J3 output"
      style="float: left; margin-right: 10px width: 120" />
-     
+ 
+        optoImaging/J3output.PNG
+![Image of Yaktocat](optoImaging/J3output.PNG) 
+
 ### Tips:
 
 * The actual output power is also depending on the scanning rate, the objective's back aperture and other scanning settings. You'll get more power if the the back aperture of the objective is large (e.g. Nikon 16x). 
