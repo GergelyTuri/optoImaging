@@ -14,9 +14,10 @@ These parts are compatible with Bruker's Ultima IV system.
 | "Signal conditioner"   |  Custom   |                   | see below  | 
 |        adapter 1       | Thorlabs  |       SM1A10      |            |
 |        adapter 2       | Thorlabs  |       SM1L05      |            |
+
 ### Details
 
-The LED can be mounted to the camera port of the microscope with a C-mount with the SM1 Thorlabs part. Make sure that the
+The LED can be mounted on the camera port of the microscope with a C-mount with the SM1 Thorlabs part. Make sure that the
 turn-down mirror below the port is notched for the wavelenght of the LED. The Semrock FF02-617/73-25
 filer is mounted below the LED (SM1 part) and it is used for narrowing the wavelenght of the LED. 
 The Di02-R561 dichroic is used to block the back reflected LED light getting into the detectors.
@@ -31,7 +32,7 @@ Oscilloscope pic below shows the signal of J3 after the conditioning box.
 
 ### Tips:
 
-* The actual output power is also depending on the scanning rate, the objective's back aperture and other scanning settings. You'll get more power if the the back aperture of the objective is large (e.g. Nikon 16x). 
+* The actual output power is also depending on the scanning rate, the objective's back aperture and other scan settings. You'll get more power at the level of the sample if the the back aperture of the objective is large (e.g. Nikon 16x). 
 * Due to the low duty cycle the actual power during scanning will be way lower compared to the power w/o scannig. In my hands even very low LED power (~6 mW measurd below the objective during scanning) was enough to activate ArchT and Breaches. 
 * You can use a relay to switch the LED on and off instead of the custom "signal conditioning" box.
 
