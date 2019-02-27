@@ -26,12 +26,8 @@ the pockels controller box and its output is hooked up the `TTL` input of the LE
 the output power of the LED can be modulated through the `Ain` pin of the controller box.
 Oscilloscope pic below shows the signal of J3 after the conditioning box.
 
-<img src="optoImaging/J3output.PNG"
-     alt="J3 output"
-     style="float: left; margin-right: 10px width: 120" />
- 
-        optoImaging/J3output.PNG
-![Image of Yaktocat](optoImaging/J3output.PNG) 
+
+![oscilloscope image](https://github.com/GergelyTuri/optoImaging/blob/master/J3output.PNG) 
 
 ### Tips:
 
