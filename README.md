@@ -27,7 +27,7 @@ Oscilloscope pic below shows the signal of J3 after the conditioning box.
 
 <img src="https://github.com/GergelyTuri/optoImaging/blob/master/J3%20output.PNG"
      alt="J3 output"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; width: 12px; height: 12px;">
 
 Please cite:<br>
 Turi GF, Li WK, Chavlis S, Pandi I, O'Hare J, Priestley JB, Grosmark AD, Liao 
