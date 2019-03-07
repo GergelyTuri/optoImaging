@@ -9,6 +9,7 @@ These parts are compatible with Bruker's Ultima IV system.
 |        Part Name       |   Vendor  |       Part#       |    Note    |
 |:----------------------:|:---------:|:-----------------:|:----------:|
 |     High Power LED     | Prizmatix |    UHP-T-620-SR   |            |
+|     LED controller     | Prizmatix |       UHPTLCC     |            |
 |         Filter         |  Semrock  |   FF02-617/73-25  |            |
 | Dichroic beam splitter |  Semrock  | Di02-R561-31.5x49 | custom cut |
 | "Signal conditioner"   |  Custom   |                   | see below  | 
@@ -38,7 +39,6 @@ Schema of the rig:
 
 * The actual output power is also depending on the scanning rate, the objective's back aperture and other scan settings. You'll get more power at the level of the sample if the the back aperture of the objective is large (e.g. Nikon 16x). 
 * Due to the low duty cycle the actual power during scanning will be way lower compared to the power w/o scannig. In my hands even very low LED power (~6 mW measurd below the objective during scanning) was enough to activate ArchT and Breaches. 
-* You can use a relay to switch the LED on and off instead of the custom "signal conditioning" box.
 * Be advised that you will not be able to collect fluorescence above the cutoff edge of the dicroic which is used here. Typically the red fluorescent proteins would emit in this range (e.g. tdTomato).
 
 Please cite:<br>
