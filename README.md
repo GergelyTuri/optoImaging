@@ -38,8 +38,9 @@ Schema of the rig:
 ### Tips:
 
 * The actual output power is also depending on the scanning rate, the objective's back aperture and other scan settings. You'll get more power at the level of the sample if the the back aperture of the objective is large (e.g. Nikon 16x). 
-* Due to the low duty cycle the actual power during scanning will be way lower compared to the power w/o scannig. In my hands even very low LED power (~6 mW measurd below the objective during scanning) was enough to activate ArchT and Breaches. 
+* Due to the low duty cycle the actual power during scanning will be way lower compared to the power w/o scannig. In my hands even very low LED power (~6 mW measured below the objective during scanning) was enough to activate ArchT and Breaches. 
 * Be advised that you will not be able to collect fluorescence above the cutoff edge of the dicroic which is used here. Typically the red fluorescent proteins would emit in this range (e.g. tdTomato).
+* Example stimulation parameters in case of resonant galvo scanning with 512x512 image size (line period: 63.04 us): frequency - 15.9 kHz; duty cycle - 16.7%
 
 Please cite:<br>
 [Turi GF, Li WK, Chavlis S, Pandi I, O'Hare J, Priestley JB, Grosmark AD, Liao 
@@ -47,3 +48,5 @@ Z, Ladow M, Zhang JF, Zemelman BV, Poirazi P, Losonczy A. <b> Vasoactive Intesti
 Polypeptide-Expressing Interneurons in the Hippocampus Support Goal-Oriented
 Spatial Learning. Neuron. 2019 Jan 18. </b> pii: S0896-6273(19)30010-8. doi:
 10.1016/j.neuron.2019.01.009. [Epub ahead of print] PubMed PMID: 30713030.](https://www.ncbi.nlm.nih.gov/pubmed/30713030)
+
+*Disclaimer: We've been using rigs like the one described above for almost a year now to do optoimaging experiments in our labs with no obvious signs of damage or decay of the sensitivity of our photomultiplier tubes (PMTs). We applied some precautions here to prevent LED light reaching the photosensitive components of the two-photon rig, however keep in mind that direct or reflected light may shorten the life span of the PMTs, decrease their sensitivity over time or even render them useless. THIS TECHNOLOGY IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. NO REPRESENTATIONS OR WARRANTIES OF ANY KIND ARE MADE, EXPRESSED OR IMPLIED, AS TO THE OPERATION OF THIS TECHNOLOGY OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED ON THIS SITE. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS TECHNOLOGY AT YOUR SOLE RISK.* 
