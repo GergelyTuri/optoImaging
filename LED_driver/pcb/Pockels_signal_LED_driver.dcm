@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM397
+D Single general purpose voltage comparator
+K comparator
+F http://www.ti.com/product/LM397/datasheet
+$ENDCMP
+#
+$CMP PWR_BARREL_JACK
+D DC Barrel Jack
+K DC power barrel jack connector
+$ENDCMP
+#
+#End Doc Library

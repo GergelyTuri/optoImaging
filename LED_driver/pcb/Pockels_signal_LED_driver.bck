@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM397
+D Single general purpose voltage comparator
+K comparator
+F http://www.ti.com/product/LM397/datasheet
+$ENDCMP
+#
+#End Doc Library

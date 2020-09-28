@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name LED_driver-rescue)(type Legacy)(uri ${KIPRJMOD}/LED_driver-rescue.lib)(options "")(descr ""))
+  (lib (name Pockels_signal_LED_driver)(type Legacy)(uri ${KIPRJMOD}/Pockels_signal_LED_driver.lib)(options "")(descr ""))
+  (lib (name PJ-102A)(type Legacy)(uri ${KIPRJMOD}/PJ-102A/PJ-102A.lib)(options "")(descr ""))
+)
