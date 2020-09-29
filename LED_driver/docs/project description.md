@@ -14,3 +14,6 @@ PCB construction
 
 PCB dimensions 22.8 x 49.8 x 1.6 mm suitable for Yosoo 2pcs New Black Extruded Aluminum Electronic Box Enclosure Project Case PCB DIY Box-1.97"x0.98"x0.98" (LxWxH)
 
+CAD files
+-------------------------
+The CAD files were crated with KiCAD software: https://kicad-pcb.org/
