@@ -16,4 +16,4 @@ PCB dimensions 22.8 x 49.8 x 1.6 mm suitable for Yosoo 2pcs New Black Extruded A
 
 CAD files
 -------------------------
-The CAD files were crated with KiCAD software: https://kicad-pcb.org/
+The CAD files were created with KiCAD software: https://kicad-pcb.org/
