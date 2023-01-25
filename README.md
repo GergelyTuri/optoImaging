@@ -37,6 +37,7 @@ Schema of the rig:
 
 ### Notes:
 
+* MAKE SURE that the "red" PMT is pysically blocked or removed from the rig during opto stimulation as the LED flashes could go straight through of that collection path and destroy the PMT.
 * The actual output power is also depending on the scanning rate, the objective's back aperture and other scan settings. You'll get more power at the level of the sample if the the back aperture of the objective is large (e.g. Nikon 16x). 
 * Due to the low duty cycle the actual power during scanning will be way lower compared to the power w/o scannig. In my hands even very low LED power (~6 mW measured below the objective during scanning) was enough to activate ArchT and Breaches. 
 * Calibrate the system while scanning, placing a power meter below the objective.
