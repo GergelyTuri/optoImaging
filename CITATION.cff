@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: >-
+  Optoimaging - An Open-Source System for simultanous optogenetic stimulation and two-photon imaging
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gergely
+    family-names: Turi
+    email: gt2253@cumc.columbia.edu
+    affiliation: New York State Psychiatric Institute
+    orcid: 'https://orcid.org/0000-0001-5651-9459'
+title: Vasoactive Intestinal Polypeptide-Expressing Interneurons in the Hippocampus Support Goal-Oriented Spatial Learning
+date-released: 2019-01-31
+identifiers:
+  - description: DOI
+    type: doi
+    value: 10.1016/j.neuron.2019.01.009
+  - description: PubMed ID
+    type: pubmed
+    value: 30713030
+  - description: URL
+    type: url
+    value: 'https://www.sciencedirect.com/science/article/pii/S0896627319300108?via%3Dihub'
