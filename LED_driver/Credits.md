@@ -1,1 +1,1 @@
-#### The LED driver box was designed by Adrien Negean from the Losonczy lab (https://www.losonczylab.org/ )
+The LED driver box was designed by Adrien Negrean from the [Losonczy lab](https://www.losonczylab.com). Adrian currnetly works at the Allen Institute (Seattle, WA).
